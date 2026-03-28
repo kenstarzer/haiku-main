@@ -24,17 +24,11 @@ body {
 	gap: 2rem;
 	margin: 10% 4rem 0 4rem;
 }
-/*
+
 div {
-	transform: rotate(15deg);
 	transition-property: transform;
 	transition-duration: 3s;
-	
-	
-	transition-property: transform;
-	transition-duration: 3s;
-	
-}*/
+}
 .last {
 	color: rgb(220, 200, 180);
 	padding-bottom: 2rem;
